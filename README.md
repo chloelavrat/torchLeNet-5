@@ -3,9 +3,9 @@
 </div>
 
 <h3 align="center">
-  <b><a href="">Online App</a></b>
+  <b><a href="https://lenet-5.streamlit.app">Online App</a></b>
   •
-  <b><a href="">Python API</a></b>
+  <b><a href="#python">Python API</a></b>
   •
   <b><a href="">Demo Video</a></b>
 </h3>
