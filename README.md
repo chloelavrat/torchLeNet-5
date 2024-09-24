@@ -41,8 +41,8 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/mnist-lenet5-classifier.git
-   cd mnist-lenet5-classifier
+   git clone https://github.com/chloelavrat/torchLeNet-5
+   cd torchLeNet-5
    ```
 
 2. **Install the required dependencies**:
