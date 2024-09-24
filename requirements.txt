@@ -1,0 +1,5 @@
+torchvision
+streamlit
+torch
+streamlit_mnist_canvas
+tensorboard
